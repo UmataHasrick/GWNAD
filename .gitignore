@@ -1,0 +1,6 @@
+# Useless file for macOS
+.DS_Store
+
+# Cached Dataset, which cannot be uploaded to github
+Data_cached/
+Pic_cached/

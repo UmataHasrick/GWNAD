@@ -1,0 +1,44 @@
+22:24 INFO    : Waveform generator initiated with
+  frequency_domain_source_model: bilby.gw.source.lal_binary_black_hole
+  time_domain_source_model: None
+  parameter_conversion: bilby.gw.conversion.convert_to_lal_binary_black_hole_parameters
+22:27 INFO    : Waveform generator initiated with
+  frequency_domain_source_model: bilby.gw.source.lal_binary_black_hole
+  time_domain_source_model: None
+  parameter_conversion: bilby.gw.conversion.convert_to_lal_binary_black_hole_parameters
+22:28 INFO    : Injected signal in H1:
+22:28 INFO    :   optimal SNR = 11.78
+22:28 INFO    :   matched filter SNR = 10.70-1.01j
+22:28 INFO    :   mass_1 = 36.0
+22:28 INFO    :   mass_2 = 29.0
+22:28 INFO    :   a_1 = 0.4
+22:28 INFO    :   a_2 = 0.3
+22:28 INFO    :   tilt_1 = 0.5
+22:28 INFO    :   tilt_2 = 1.0
+22:28 INFO    :   phi_12 = 1.7
+22:28 INFO    :   phi_jl = 0.3
+22:28 INFO    :   luminosity_distance = 2000.0
+22:28 INFO    :   theta_jn = 0.4
+22:28 INFO    :   psi = 2.659
+22:28 INFO    :   phase = 1.3
+22:28 INFO    :   geocent_time = 1126259642.413
+22:28 INFO    :   ra = 1.375
+22:28 INFO    :   dec = -1.2108
+22:28 INFO    : Injected signal in L1:
+22:28 INFO    :   optimal SNR = 9.53
+22:28 INFO    :   matched filter SNR = 7.71+0.41j
+22:28 INFO    :   mass_1 = 36.0
+22:28 INFO    :   mass_2 = 29.0
+22:28 INFO    :   a_1 = 0.4
+22:28 INFO    :   a_2 = 0.3
+22:28 INFO    :   tilt_1 = 0.5
+22:28 INFO    :   tilt_2 = 1.0
+22:28 INFO    :   phi_12 = 1.7
+22:28 INFO    :   phi_jl = 0.3
+22:28 INFO    :   luminosity_distance = 2000.0
+22:28 INFO    :   theta_jn = 0.4
+22:28 INFO    :   psi = 2.659
+22:28 INFO    :   phase = 1.3
+22:28 INFO    :   geocent_time = 1126259642.413
+22:28 INFO    :   ra = 1.375
+22:28 INFO    :   dec = -1.2108
